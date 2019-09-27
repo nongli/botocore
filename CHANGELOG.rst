@@ -2,7 +2,7 @@
 CHANGELOG
 =========
 
-1.12.237
+1.12.238
 ========
 
 * api-change:``ssm``: Update ssm client to latest version
